@@ -1,5 +1,0 @@
-import seaborn as sns
-import pandas as pd
-import pandas as pd url = https://raw.githubusercontent.com/chiharuishida/Tutorialdata/main/ad_dataset_withheaders.csv
-tips.head(10)
-tips.describe()
